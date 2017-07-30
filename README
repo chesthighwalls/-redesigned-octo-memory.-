@@ -1,0 +1,3 @@
+  A simple php application that generates a library from pdf files in the directory.
+
+  A linux enviornment, ghost script and file permissions are required.
